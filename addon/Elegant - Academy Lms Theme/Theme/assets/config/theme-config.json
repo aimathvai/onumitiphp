@@ -1,0 +1,37 @@
+{
+  "theme-name"     : "elegant",
+  "author"         : "Creativeitem",
+  "year"           : "2019",
+  "homepage" : {
+
+  },
+  "course_media_files" : {
+    "course_thumbnail" : "800 X 533",
+    "course_banner" : "1600 X 1067",
+    "course_slider_thumbnail" : "400 X 200",
+    "course_slider_banner" : "1475 X 800"
+  },
+  "course_media_placeholders" : {
+    "course_thumbnail_placeholder" : "assets/frontend/elegant/images/course_thumbnail_placeholder.jpg",
+    "course_banner_placeholder" : "assets/frontend/elegant/images/course_banner_placeholder.jpg",
+    "course_slider_thumbnail_placeholder" : "assets/frontend/elegant/images/course_slider_thumbnail_placeholder.jpg",
+    "course_slider_banner_placeholder" : "assets/frontend/elegant/images/course_slider_banner_placeholder.jpg"
+  },
+  "banners" : {
+    "courses_banner" : "assets/frontend/elegant/images/bg_courses.jpg",
+    "shopping_cart_banner" : "assets/frontend/elegant/images/bg_cart.jpg",
+    "login_banner" : "assets/frontend/elegant/images/bg_login.jpg",
+    "sign_up_banner" : "assets/frontend/elegant/images/bg_signup.jpg",
+    "forgot_password_banner" : "assets/frontend/elegant/images/bg_forgot_password.jpg",
+    "my_courses_banner" : "assets/frontend/elegant/images/bg_my_courses.jpg",
+    "my_wishlist_banner" : "assets/frontend/elegant/images/bg_wishlist.jpg",
+    "my_message_banner" : "assets/frontend/elegant/images/bg_message.jpg",
+    "purchase_history_banner" : "assets/frontend/elegant/images/bg_purchase_history.jpg",
+    "invoice_banner" : "assets/frontend/elegant/images/bg_invoice.jpg",
+    "profile_banner" : "assets/frontend/elegant/images/bg_profile.jpg",
+    "terms_and_conditions_banner" : "assets/frontend/elegant/images/bg_terms.jpg",
+    "privacy_policy_banner" : "assets/frontend/elegant/images/bg_privacy.jpg",
+    "about_us_banner" : "assets/frontend/elegant/images/bg_about.jpg",
+    "instructor_banner" : "assets/frontend/elegant/images/bg_instructor.jpg"
+  }
+}
