@@ -1,0 +1,13 @@
+Follow the instruction below to update the Elegant theme from version 1.7 to version 1.8 :
+
+PLEASE KEEP A BACKUP OF YOUR FILES, IF YOU HAVE ANY CUSTOMIZATION ON THE APPLICATION.
+
+1. The elegant folder inside the views folder, replace on your server on this location-
+	a. Root directory > application > views > frontend > elegant
+
+1. Upload 3 CSS and js files to your server. You will find the updated files inside the assets folder.
+	a. Root directory > assets > frontend > elegant > css > custom.css
+	b. Root directory > assets > frontend > elegant > css > tagify.css
+	c. Root directory > assets > frontend > elegant > js > jQuery.tagify.js
+
+That's it.
